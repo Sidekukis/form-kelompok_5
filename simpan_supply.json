@@ -1,0 +1,30 @@
+[
+    {
+        "id": "689309657ef88",
+        "nama": "hanifa",
+        "alamat": "subang",
+        "telepon": "122134324",
+        "barang": "snack"
+    },
+    {
+        "id": "68932d21bb5f4",
+        "nama": "hani",
+        "alamat": "bumi",
+        "telepon": "0164640",
+        "barang": "minum"
+    },
+    {
+        "id": "689330bbaaf67",
+        "nama": "salsabila",
+        "alamat": "kalijati",
+        "telepon": "0001258749",
+        "barang": "baju"
+    },
+    {
+        "id": "689330e8b72df",
+        "nama": "wulan",
+        "alamat": "k",
+        "telepon": "0856665564546",
+        "barang": "haku ice cream"
+    }
+]
