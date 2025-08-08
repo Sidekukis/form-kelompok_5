@@ -1,0 +1,17 @@
+[
+  {
+    "no_rekening": "0099981",
+    "nama_nasabah": "Wulan",
+    "saldo_awal": 500000
+  },
+  {
+    "no_rekening": "08765421",
+    "nama_nasabah": "Salsa",
+    "saldo_awal": 50000
+  },
+  {
+    "no_rekening": "06543228",
+    "nama_nasabah": "Hanifa",
+    "saldo_awal": 700000
+  }
+]
