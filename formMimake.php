@@ -25,8 +25,7 @@ if (isset($_POST['tambah_supplier'])) {
         'barang' => $_POST ['barang'],
         'kategori' => $_POST['kategori'],
         'jumlah' => $_POST['jumlah'],
-        'harga' => $_POST['harga'],
-        'total' => $_POST['total']
+        'harga' => $_POST['harga']
 
     ];
     save_data($suppliers);
@@ -123,3 +122,4 @@ $suppliers = load_data();
     </div>
 </body>
 </html>
+
